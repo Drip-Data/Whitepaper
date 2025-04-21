@@ -68,7 +68,7 @@
     * [团队沟通渠道 (如Slack频道列表)](./onboarding/communication_channels.md)
 * **必读材料:**
     * [公司文化与价值观](./onboarding/company_culture.md)
-    * **LIMO 数据构建框架快速入门:** [链接到LIMO项目概述文档](./projects/limo/LIMO数据构建Pipeline项目文档.md) ---
+    * **LIMO 数据构建框架快速入门:** [LIMO项目概述文档](./projects/limo/LIMO数据构建Pipeline项目文档.md) ---
 
 ## 3. 项目概览 (Projects Overview)
 
@@ -82,7 +82,7 @@
     * **工程实现与架构:** [LIMO数据构建框架工程实现文档](./projects/limo/LIMO数据构建框架工程实现文档.md)
     * [项目设计文档 (链接待补充)]
     * [需求文档 (链接待补充)]
-* **代码仓库:** [链接到limo-framework代码库]
+* **代码仓库:** [limo-framework代码库](https://github.com/Drip-Data/datapresso)
 * **项目管理:** [链接到LIMO项目的JIRA看板/任务列表]
 
 ### 3.2 [其他项目 B]
