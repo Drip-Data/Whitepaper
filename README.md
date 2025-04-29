@@ -272,6 +272,7 @@
     * [《Designing Data-Intensive Applications》 核心概念总结](./07_学习资源与知识分享/ddia_summary.md)
 * **在线课程/平台:** [例如 Coursera, Udemy]
 * **技术博客/网站:** [例如 Martin Fowler, Hugging Face Blog]
+    * [The Second Half-姚顺雨](https://ysymyth.github.io/The-Second-Half/)
 
 ### 7.4 重要论文/文章研读 (Key Papers/Articles Study)
 * **LIMO 相关:**
