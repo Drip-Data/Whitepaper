@@ -262,17 +262,15 @@
     * [相关论文链接 (待补充)]
 
 ### 7.2 内部技术分享会 (Internal Tech Talks)
-* [YYYY-MM-DD] **主题:** LIMO 数据框架的设计与实践 - [主讲人: 文倩/赵翔/浩智/潮剑] - [链接到分享材料](./07_学习资源与知识分享/talks/limo_framework_talk.md)
 * [YYYY-MM-DD] **主题:** [其他分享主题 A] - [主讲人] - [链接到录屏/PPT/笔记]
-* [如何发起和组织技术分享](./07_学习资源与知识分享/how_to_organize_tech_talks.md)
-
 ### 7.3 推荐阅读与教程 (Recommended Readings & Tutorials)
 * **书籍:**
     * [《Clean Code》 学习笔记](./07_学习资源与知识分享/clean_code_notes.md)
     * [《Designing Data-Intensive Applications》 核心概念总结](./07_学习资源与知识分享/ddia_summary.md)
-* **在线课程/平台:** [例如 Coursera, Udemy]
-* **技术博客/网站:** [例如 Martin Fowler, Hugging Face Blog]
+* **在线课程/平台:** 
+* **技术博客/网站:** 
     * [The Second Half-姚顺雨](https://ysymyth.github.io/The-Second-Half/)
+    * [Nvidia Developer](https://developer.nvidia.com/)
 
 ### 7.4 重要论文/文章研读 (Key Papers/Articles Study)
 * **LIMO 相关:**
